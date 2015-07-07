@@ -4,4 +4,4 @@ git is free software
 this is zancunqu
 Git tracks changes of files
 123
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
